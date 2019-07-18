@@ -1,0 +1,15 @@
+Common Git Commands:
+> git init                       : To create repository in directory and can be tracked in git
+> nano <file_name>               : To create new file.
+> git status                     : To know the status of file
+> git commit -m "message"        : To commit along with message
+> git remote add origin<url github> : To add github url
+> git push origin master
+> got clone <url>                : to clone 
+> git branch <name>              : to create branch 
+> git branch -D <name>           : to delete branch
+> git branch                     : to see all branches
+> git checkout <branch_name>     : to switch branch/master
+> git log			 : to see history of commits
+
+Note: last commit of the master becomes the content of 1st branch      
