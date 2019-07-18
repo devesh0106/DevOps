@@ -11,5 +11,9 @@ Common Git Commands:
 > git branch                     : to see all branches
 > git checkout <branch_name>     : to switch branch/master
 > git log			 : to see history of commits
+> git checkout master
+git pull origin master
+git merge test
+git push origin master           : To merge branch in master  
 
 Note: last commit of the master becomes the content of 1st branch      
